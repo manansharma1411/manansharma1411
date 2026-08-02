@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Manan Sharma, a 1st-year Computer Science (Core) student. I’m passionate about building efficient and scalable software systems, and I’m actively exploring how AI can be applied to solve real-world problems. As I grow in this field, I aim to strengthen my programming skills, deepen my understanding of system design, and work on meaningful projects that combine logic, innovation, and practical impact.
+Hi, I’m Manan Sharma, a 2nd-year Computer Science (Core) student. I’m passionate about building efficient and scalable software systems, and I’m actively exploring how AI can be applied to solve real-world problems. As I grow in this field, I aim to strengthen my programming skills, deepen my understanding of system design, and work on meaningful projects that combine logic, innovation, and practical impact.
 
 
 # 💻 Tech Stack:
